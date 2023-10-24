@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arya
 - 👀 I’m interested in Compilers, Computer Graphics, and Operating Systems
-- 🌱 I’m currently building my own compiler for a new language
+- 🌱 I’m currently conducting research at University of Toronto
 - 📫 Feel free to reach me at rafii@cs.toronto.edu
 
 <!---
